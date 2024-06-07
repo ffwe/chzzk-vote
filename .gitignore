@@ -1,3 +1,7 @@
+# Ignore all files and directories starting with . except .gitignore
+.*
+!.gitignore
+
 # Logs
 logs
 *.log
